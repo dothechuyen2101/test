@@ -1,0 +1,8 @@
+/home/dtc/Desktop/test/banking-product-service/src/main/java/com/banking/product/application/dto/response/ProductResponse.java
+/home/dtc/Desktop/test/banking-product-service/src/main/java/com/banking/product/application/service/ProductServiceImpl.java
+/home/dtc/Desktop/test/banking-product-service/src/main/java/com/banking/product/infrastructure/repository/ProductRepository.java
+/home/dtc/Desktop/test/banking-product-service/src/main/java/com/banking/product/domain/entity/Product.java
+/home/dtc/Desktop/test/banking-product-service/src/main/java/com/banking/product/application/dto/request/CreateProductRequest.java
+/home/dtc/Desktop/test/banking-product-service/src/main/java/com/banking/product/ProductServiceApplication.java
+/home/dtc/Desktop/test/banking-product-service/src/main/java/com/banking/product/api/rest/ProductController.java
+/home/dtc/Desktop/test/banking-product-service/src/main/java/com/banking/product/application/service/ProductService.java
