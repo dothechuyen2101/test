@@ -11,4 +11,5 @@ CREATE TABLE customers (
     version BIGINT
 );
 
+
 CREATE INDEX idx_customers_email ON customers (email);

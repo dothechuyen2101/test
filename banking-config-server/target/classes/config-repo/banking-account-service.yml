@@ -1,0 +1,4 @@
+# Sample config served to clients: /banking-account-service/default
+banking:
+  sample:
+    key: value-from-config-server
