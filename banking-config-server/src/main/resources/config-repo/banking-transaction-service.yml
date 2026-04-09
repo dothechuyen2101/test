@@ -1,0 +1,4 @@
+banking:
+  services:
+    account:
+      base-url: http://localhost:8081

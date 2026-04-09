@@ -1,0 +1,26 @@
+server:
+  port: 8888
+
+spring:
+  application:
+    name: banking-config-server
+  profiles:
+    active: native
+  cloud:
+    config:
+      server:
+        native:
+          search-locations: classpath:/config-repo
+
+banking:
+  config:
+    security:
+      permit-all: true
+  vault:
+    enabled: false
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health,info
